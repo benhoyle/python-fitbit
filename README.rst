@@ -1,12 +1,5 @@
 =============
-python-fitbit
+forked from python-fitbit
 =============
 
-Fitbit API Python Client Implementation
-
-For documentation: `http://python-fitbit.readthedocs.org/ <http://python-fitbit.readthedocs.org/>`_
-
-Requirements
-============
-
-* Python 2.6+  
+Trying to adapt python-fitbit for iHealth authentication and requests
